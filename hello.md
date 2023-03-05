@@ -34,3 +34,9 @@ Git add
 
 Удаление веток
 Для удаления ветки ввести команду "git branch -d 'name branch'"
+
+## Работа с картинками
+
+![Картинка с башней](https://fikiwiki.com/uploads/posts/2022-02/1644855597_24-fikiwiki-com-p-kartinki-khd-kachestva-25.jpg)
+
+[Работа с markdown](https://fikiwiki.com/uploads/posts/2022-02/1645000472_12-fikiwiki-com-p-kartinki-krasivie-na-telefon-zhivie-oboi-13.jpg)
